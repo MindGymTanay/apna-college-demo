@@ -1,4 +1,5 @@
 # apna-college-demo
+
 This is my first git repository
 <br/>
-Author-Tanay Agrawal
+Author-Tanay (Apni job)
